@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-[Intro.pdf](https://github.com/ZeroPanda/Toronto-Safe-Roads-Competition/blob/main/Safe%20Roads%20Presentation.pdf).
+[Intro.pdf](https://github.com/ZeroPanda/Toronto-Safe-Roads-Competition/blob/main/SafeRoadsPresentation.pdf)
 
 ```markdown
 Syntax highlighted code block
